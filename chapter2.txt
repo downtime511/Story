@@ -1,0 +1,1 @@
+Having a tough time installing heroku on a chromebook
